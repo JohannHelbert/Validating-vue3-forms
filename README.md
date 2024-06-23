@@ -6,7 +6,7 @@
 yarn install
 ```
 
-g
+ddd
 
 ### Compiles and hot-reloads for development
 
